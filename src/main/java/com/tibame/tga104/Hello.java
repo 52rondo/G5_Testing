@@ -18,6 +18,7 @@ public class Hello extends HttpServlet {
 		PrintWriter out = response.getWriter();
 		out.println("Hello");
 		System.out.println("相撞");
+		System.out.println("測試branch JOSHH");
 	}
 	protected void doPost(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {

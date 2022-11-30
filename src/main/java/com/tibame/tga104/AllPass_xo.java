@@ -6,6 +6,7 @@ public class AllPass_xo {
 		System.out.println("時間好趕  祝大家都寫的完XD11");
 		System.out.println("我比較想報前端班XD");
 		System.out.println("分支test");
+		System.out.println("分支test2");
 
 	}
 
